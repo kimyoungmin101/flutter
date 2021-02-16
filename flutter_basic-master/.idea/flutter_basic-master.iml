@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/chapter04/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter04/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter06/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter06/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter07/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter07/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter08/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter08/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter09/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter09/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter10/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter10/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
