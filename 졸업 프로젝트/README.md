@@ -29,38 +29,7 @@
 StudentID:20162820
 Email: dudals2467@kookmin.ac.kr
 Github: https://github.com/kimyoungmin101
-
 ```
-<center><img src="https://user-images.githubusercontent.com/38937867/119224405-3fa15600-bb39-11eb-8e98-f7f047b8b97e.jpg" width="100" height="100"></center>
-
-```
-송희범_Song Hee Beom
-국민대학교 소프트웨어학부 
-StudentID: 20182089
-Email: songh6508@gmail.com
-Github: https://github.com/heebeom-song
-```
-<center><img src="https://user-images.githubusercontent.com/38937867/119224372-11bc1180-bb39-11eb-99d3-60f78fa57592.jpg" width="100" height="100"></center>
-
-```
-장성용_Jang Sung Yong
-국민대학교 소프트웨어학부 
-StudentID:20162838
-Email: syj6219@icloud.com
-Github: https://github.com/jane-seong-yong
-```
-
-<center><img src="https://user-images.githubusercontent.com/38937867/119224288-b558f200-bb38-11eb-8e0d-37ddc93cb3e1.jpg" width="100" height="100"></center>
-
-```
-백지웅_Baek Ji Woong
-국민대학교 소프트웨어학부 
-StudentID: 20181622
-Email: backjiung@gmail.com
-Github: https://github.com/backjiung
-```
-## Project_Purpose
-회사 보안 내규로 자세한 사항 공개 불가
 
 ## 앱 실행 환경설정 가이드
 
@@ -187,5 +156,3 @@ _________________________________
  ┗ 📜README.md
 ```
 ## 내부 Project UI
-|
-
