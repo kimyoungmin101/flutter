@@ -19,7 +19,19 @@
 
 <center><img src="https://user-images.githubusercontent.com/38937867/119291263-1ee81600-bc89-11eb-80cf-edd66ab3be27.png" width"1000" height="300"></center>
 
-## Team Member
+## 내부 Project UI
+
+<center><img src="https://user-images.githubusercontent.com/42969129/123426006-ce543780-d5fd-11eb-95f7-b69f669dd099.png" width"1500" height="300"></center>
+
+<center><img src="https://user-images.githubusercontent.com/42969129/123426239-20955880-d5fe-11eb-9d84-041a92f6d10a.png" width"1500" height="300"></center>
+
+<center><img src="https://user-images.githubusercontent.com/42969129/123426263-2ab75700-d5fe-11eb-8d2f-750443dabcfd.png" width"1500" height="300"></center>
+
+## 시연 영상
+
+<center><img src="https://user-images.githubusercontent.com/42969129/123426541-8255c280-d5fe-11eb-9d09-c11db60f9d5f.gif" width"2000" height="600"></center>
+
+## Introudce Me
 
 <center><img src="https://user-images.githubusercontent.com/38937867/119224431-61024200-bb39-11eb-8308-ffb59bf52ec2.jpg" width="100" height="100"></center>
 
@@ -155,4 +167,7 @@ _________________________________
  ┣ 📂test
  ┗ 📜README.md
 ```
-## 내부 Project UI
+
+## Poster
+
+<center><img src="https://user-images.githubusercontent.com/42969129/123428648-fd1fdd00-d600-11eb-8e19-69384df00ea0.png" width"2000" height="600"></center>
