@@ -10,4 +10,3 @@ class My_Arr with ChangeNotifier{
   setMyList(List myList) => _myList = myList;
 
 }
-

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259502568734",
+    "project_id": "pickle-chat-ae3fc",
+    "storage_bucket": "pickle-chat-ae3fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259502568734:android:ab415f29106776b9e5c50f",
+        "android_client_info": {
+          "package_name": "com.example.chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259502568734-du167c5ko130hkt3hcb7jt2h5178bjo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0br9smwgnCApTUqCyeKYytx_tGtvtecY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259502568734-du167c5ko130hkt3hcb7jt2h5178bjo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
