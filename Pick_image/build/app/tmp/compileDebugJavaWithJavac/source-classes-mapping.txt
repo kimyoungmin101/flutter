@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+kr/concat/pickle_intern_2021/BuildConfig.java
+ kr.concat.pickle_intern_2021.BuildConfig

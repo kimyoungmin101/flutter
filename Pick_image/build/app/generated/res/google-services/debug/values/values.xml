@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1019538684881-67drp638dansifgf5r2iq6u3963q4t0q.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1019538684881</string>
+    <string name="google_api_key" translatable="false">AIzaSyB5HXc26zmqCEix4xeMu0uoLmW_q35fZBY</string>
+    <string name="google_app_id" translatable="false">1:1019538684881:android:6b4ea97b39f660b0c77ef0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5HXc26zmqCEix4xeMu0uoLmW_q35fZBY</string>
+    <string name="google_storage_bucket" translatable="false">pickle-intern-2021.appspot.com</string>
+    <string name="project_id" translatable="false">pickle-intern-2021</string>
+</resources>

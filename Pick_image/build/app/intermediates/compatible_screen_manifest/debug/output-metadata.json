@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "kr.concat.pickle_intern_2021",
+  "variantName": "debug",
+  "elements": []
+}

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1019538684881",
+    "project_id": "pickle-intern-2021",
+    "storage_bucket": "pickle-intern-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019538684881:android:504272ae53b21d23c77ef0",
+        "android_client_info": {
+          "package_name": "kr.concat.PickleIntern2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019538684881-67drp638dansifgf5r2iq6u3963q4t0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HXc26zmqCEix4xeMu0uoLmW_q35fZBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019538684881-67drp638dansifgf5r2iq6u3963q4t0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019538684881:android:6b4ea97b39f660b0c77ef0",
+        "android_client_info": {
+          "package_name": "kr.concat.pickle_intern_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019538684881-67drp638dansifgf5r2iq6u3963q4t0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HXc26zmqCEix4xeMu0uoLmW_q35fZBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019538684881-67drp638dansifgf5r2iq6u3963q4t0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
