@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+URL : https://drive.google.com/file/d/1JbDsZrjiK5qILNUBLcNcKm_LEkGcxl3c/view?usp=sharing
+
 <img width="80%" src="https://user-images.githubusercontent.com/42969129/156928882-371402c5-91da-4088-a73c-cccd59897851.gif"/>
 
 # 설명
@@ -17,3 +19,4 @@ Test를 위한 미리 앱을 만들어달라는 회사의 요청으로 제작을
 
 # 개발 방법
 dart를 이용 플러터 클라이언트 개발을 진행하였고 db작업은 firebase의 firebasestorage를 이용하여 이미즐 저장하여 스토리 형식 이미지 파일을 넘길 수 있게 해주었고 database는 모두 firebase에 담아 활용하여 클라이언트에서 이미지들을 불러 만들어 진행하였습니다.
+
